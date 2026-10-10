@@ -34,9 +34,9 @@
 
 ## 口语与跟读
 
-[口语与B站课程](SPEAKING-READING.md)：Keith参考回答、Jacky话题PDF、当季题目，以及Easy English Talk、EnglishPod和British Council日常对话。
+[口语与B站课程](SPEAKING-READING.md)：Keith参考回答、Jacky话题PDF、当季题目，以及Easy English Talk的长期跟读安排。
 
-每天10分钟提取表达、20分钟跟读、10分钟脱稿回答。
+每天10分钟提取表达、20分钟按集数连续跟读、10分钟脱稿回答。跟读从第1集开始，每集练2–3天，每周留一天回顾。
 
 ## 机考练习
 

@@ -14,32 +14,43 @@
 
 [British Council口语任务PDF](https://takeielts.britishcouncil.org/sites/default/files/%5Bdownloads%5D/ielts-speaking-sample-tasks-2023.pdf)用于熟悉三部分的提问形式。
 
-## 影子跟读
+## 长期影子跟读
 
-### Easy English Talk
+课程：[Easy English Talk，178集](https://www.bilibili.com/video/BV1KW6SBHEUj/)。UP：YouTube口语精选。
 
-UP：YouTube口语精选。视频带逐句英文字幕，按生活话题选择片段。
+从第1集开始，按集数连续学习。同一集练2–3天，完成后进入下一集。每天20分钟；较长的课程或反复卡住的内容增加练习天数，后续集数顺延。
 
-| 课程 | 时长 | 练习主题 |
+### 每天怎么练
+
+1. 从上次结束的位置继续，连续学习约6–9分钟内容。
+2. 先听一遍并看字幕，理解这一段，再同步跟读一遍。
+3. 用剩余时间重练卡住的句子，录一小段，记录需要复习的地方。
+
+短句可暂停后模仿，再连起来跟读。当天20分钟结束时记录进度，下一次从这里继续。新课每天覆盖相邻内容，直到整集学完；回顾日再练这一周的难句。
+
+一集约17分钟时，可以第一天练前半，第二天练后半。25分钟左右的一集分3天；仍有内容没练完时继续用同一集。
+
+### 第一周
+
+| 日期 | 课程 | 任务 |
 | --- | --- | --- |
-| [第4集：How to introduce Yourself in English](https://www.bilibili.com/video/BV1KW6SBHEUj/?p=4) | 13分38秒 | 自我介绍 |
-| [第7集：How To Talk About Your Daily Routine](https://www.bilibili.com/video/BV1KW6SBHEUj/?p=7) | 19分12秒 | 日常安排 |
+| 周一 | [第1集：Don't waste Your Time](https://www.bilibili.com/video/BV1KW6SBHEUj/?p=1)，17分22秒 | 从开头练前半，记录结束位置。 |
+| 周二 | 第1集 | 从上次位置练后半，完成整集并整理难句。 |
+| 周三 | [第2集：Self Discipline For Success](https://www.bilibili.com/video/BV1KW6SBHEUj/?p=2)，17分12秒 | 从开头练前半。 |
+| 周四 | 第2集 | 练后半，完成整集。 |
+| 周五 | [第3集：How To Learn English At Home](https://www.bilibili.com/video/BV1KW6SBHEUj/?p=3)，15分01秒 | 从开头练前半。 |
+| 周六 | 第3集 | 练后半，完成整集。 |
+| 周日 | 第1–3集回顾 | 重练难句，比较本周录音，整理下周复习内容。 |
 
-跳过开场，从正文选30–60秒，反复练20分钟。同一段练2–3天；最后用学到的表达描述自己的生活。字幕与听到的内容不一致时，记下时间戳并订正。
+当周某集需要多练一天时，后面的新课顺延。周日仍做回顾。下一周接着尚未完成的集数练习。
 
-第7集先从约02:10处的作息示例开始，选连续30–60秒。跟读后，把起床、上班等活动及时间换成自己的日常安排，脱稿说30秒。
+### 每集完成后
 
-### EnglishPod
+- 记录整集覆盖范围与仍需复习的句子。
+- 连续跟读一段，检查漏词、停顿和跟不上之处。
+- 用自己的话说出本集主要内容，使用1–2个学到的表达。
 
-[第8课：What's your name again?](https://www.bilibili.com/video/BV1w7411g7jn/?p=8)，17分57秒。UP：南柯英语。
-
-主题是偶遇熟人、寒暄和忘记姓名。画面左侧是对话，右侧是词汇与英文释义。选连续4–6个说话轮次跟读，最后讲一个自己偶遇熟人的30秒小故事。
-
-文本和MP3的领取方式见视频简介中的公众号说明。
-
-### British Council日常对话
-
-[Keeping a conversation going](https://learnenglish.britishcouncil.org/free-resources/speaking/b1/keeping-conversation-going)，约4分28秒，附网页文本和练习PDF。围绕接话、追问和延续对话练习。
+整集内容已覆盖、能理解主要意思，并能看字幕连续跟读一段后，进入下一集。尚不熟练的句子留到回顾日复习。
 
 ## 外刊精读
 
@@ -60,7 +71,7 @@ UP：YouTube口语精选。视频带逐句英文字幕，按生活话题选择�
 | 环节 | 时间 | 任务 |
 | --- | --- | --- |
 | 语料 | 10分钟 | 先答1题，再看参考回答；选最多3个表达，换成自己的细节重答。 |
-| 跟读 | 20分钟 | 听懂5分钟，标意群和重音3分钟，跟读8分钟，录音比较4分钟。 |
+| 跟读 | 20分钟 | 按集数连续学习Easy English Talk，听懂当天内容、跟读并录音。 |
 | 回答 | 10分钟 | 脱稿答同主题2–3题，记录卡顿、发音和表达问题。 |
 
-记录课程链接、片段起止时间、所学表达、自己的回答和下次复习内容。
+记录课程、集数、本集第几次练习、当天起止时间、整集累计进度、难句和下次开始位置。口语回答另存原答案与订正。
