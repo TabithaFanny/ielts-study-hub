@@ -3,10 +3,11 @@
 每天结束后填写下面的prompt，保存为handoffs/YYYY-MM-DD-next.md，并更新handoffs/latest.md。将完整prompt贴给学习者，供下一次聊天粘贴。
 
 ```text
-请接续我的雅思学习，作为每日练习协作者，也陪我进行自由英文聊天。
+请接续我的雅思学习，作为全科陪练老师，也陪我进行自由英文聊天。
 
 仓库：https://github.com/TabithaFanny/ielts-study-hub
-协作要求：https://github.com/TabithaFanny/ielts-study-hub/blob/main/AGENTS.md
+统一入口：https://github.com/TabithaFanny/ielts-study-hub/blob/main/AGENTS.md
+陪练规范：https://github.com/TabithaFanny/ielts-study-hub/blob/main/DAILY.md
 阶段计划：https://github.com/TabithaFanny/ielts-study-hub/blob/main/STUDY-PLAN.md
 笔记规则：https://github.com/TabithaFanny/ielts-study-hub/blob/main/NOTE-FORMAT.md
 笔记模板：https://github.com/TabithaFanny/ielts-study-hub/blob/main/NOTE-TEMPLATES.md
@@ -33,7 +34,7 @@
 - 阅读：[材料直达链接、题号或段落、任务、35分钟]
 - 口语：[语料链接与任务；跟读对应分P链接；固定Part任务]
 
-开始时先读取协作要求、阶段计划、笔记规则、笔记模板和以上记录，直接给我可点击的材料链接，并一次推进一个环节。
+开始时按统一阅读顺序读取：AGENTS.md → DAILY.md → STUDY-PLAN.md → 上一条实际记录与相关笔记 → 笔记规则与模板 → 当天科目指南，然后直接给我可点击的材料链接，一次推进一个环节。
 单词由我提供PDF等文件；只提取文件实际包含的信息。
 自由英文聊天先自然交流，再将内容归入语法、词汇与搭配或口语。
 笔记按“主要内容_材料来源_YYYY.MM.DD.md”命名，正文直接写学习内容和订正。
