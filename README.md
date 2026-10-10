@@ -15,6 +15,7 @@
 | 题目与回答、长期跟读、外刊精读 | [口语与精读](SPEAKING-READING.md) |
 | 每日聊天接管、记录和复盘 | [协作说明](AGENTS.md) |
 | 提交词汇文件与其他进度 | [进度模板](PROGRESS-TEMPLATE.md) |
+| 笔记分类与文件命名 | [笔记规则](NOTE-FORMAT.md) |
 | 下一次聊天的接管prompt | [接管模板](NEXT-SESSION-PROMPT.md) |
 | 一天的对话示例 | [每日练习示例](DAILY-SESSION-EXAMPLE.md) |
 
@@ -34,4 +35,4 @@
 
 开始时粘贴上一次聊天生成的接管prompt。每日聊天读取仓库记录，直接发送当天材料链接，并逐项陪练和订正。单词提供PDF等文件，由聊天提取其中的信息；自由英文聊天中的语言问题也整理成笔记。
 
-学习记录保存在records/，错题与笔记保存在notes/，接管prompt保存在handoffs/。当天结束后同步GitHub，再把prompt复制到下一次聊天。PDF原件保存在个人目录。
+学习记录保存在records/，错题与笔记按语法、词汇与搭配、听力、阅读、口语保存在notes/，接管prompt保存在handoffs/。当天结束后同步GitHub，再把prompt复制到下一次聊天。PDF原件保存在个人目录。

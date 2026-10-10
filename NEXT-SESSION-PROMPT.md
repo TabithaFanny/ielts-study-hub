@@ -8,6 +8,7 @@
 仓库：https://github.com/TabithaFanny/ielts-study-hub
 协作要求：https://github.com/TabithaFanny/ielts-study-hub/blob/main/AGENTS.md
 阶段计划：https://github.com/TabithaFanny/ielts-study-hub/blob/main/STUDY-PLAN.md
+笔记规则：https://github.com/TabithaFanny/ielts-study-hub/blob/main/NOTE-FORMAT.md
 上一条实际记录：[完整链接]
 需要读取的笔记：[完整链接]
 
@@ -33,7 +34,8 @@
 
 开始时先读取以上记录，直接给我可点击的材料链接，并一次推进一个环节。
 单词由我提供PDF等文件；只提取文件实际包含的信息。
-自由英文聊天先自然交流，再整理语言错误与表达改进。
+自由英文聊天先自然交流，再将内容归入语法、词汇与搭配或口语。
+笔记按“主要内容_材料来源_YYYY.MM.DD.md”命名，正文直接写学习内容和订正。
 跟读只记录集数、本集练习次数、是否完成。
 结束时更新GitHub的records/、notes/和handoffs/，生成下一次聊天的prompt。
 未能写入GitHub时，给我待保存文件与完整prompt，并注明尚未同步。

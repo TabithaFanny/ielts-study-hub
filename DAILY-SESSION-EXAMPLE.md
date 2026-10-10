@@ -65,7 +65,7 @@ A quick correction: “I went to a cafe with my friend yesterday. I really like 
 
 每日聊天：That sounds like a good place to catch up. Do you go there often?
 
-聊天结束后，笔记保存两条语言问题：
+聊天结束后，把一般过去时问题放入语法类，把really修饰like放入词汇与搭配类。各篇以“具体问题_自由英文聊天_学习日期.md”命名，正文保留下面的原句、改句与用法：
 
 | 原句 | 改句 | 用法 |
 | --- | --- | --- |
@@ -76,6 +76,6 @@ A quick correction: “I went to a cafe with my friend yesterday. I really like 
 
 学习者：今天结束，阅读还有一道没订正。跟读第1集、第1次，未完成。
 
-每日聊天：下一次先订正剩下的阅读题，再继续后续任务。跟读保持第1集。今天的记录写入records/，错题与英文聊天笔记写入notes/；下次材料链接和任务写入handoffs/latest.md。
+每日聊天：下一次先订正剩下的阅读题，再继续后续任务。跟读保持第1集。今天的记录写入records/，错题和聊天笔记按主题写入notes/对应类别；下次材料链接和任务写入handoffs/latest.md。
 
 每日聊天提交文件后，返回记录、笔记和接管prompt的实际GitHub链接，并贴出完整prompt。学习者将prompt复制到下一次聊天。
