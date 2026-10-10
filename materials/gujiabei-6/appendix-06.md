@@ -11,63 +11,45 @@ PDF第390–392页。文字为OCR转录；图表、并列表格和存疑字符�
 
 [查看原页图](images/page-390.jpg)
 
-附录6冠词和单复数的错误
+### 附录6 冠词和单复数的错误
 
-A. 冠词的错误
+#### A. 冠词的错误
 
-冠词分为不定冠词（a 或者 an）和定冠词（the）。
+冠词分为不定冠词（a或者an）和定冠词（the）。
 
-a. 可数名词前一般要加定冠词或者不定冠词；可数名词如果使用定冠词，要么表示一类东西，要么表示特指。否则的话，要变成复数形式。另外一种可能性是使用所有格的形式（如果被所有格修饰，名词就不用加冠词或者变为复数形式，如the students’ plan）。
+a. 可数名词前一般要加定冠词或者不定冠词；可数名词如果使用定冠词，要么表示一类东西，要么表示特指。否则的话，要变成复数形式。另外一种可能性是使用所有格的形式（如果被所有格修饰，名词就不用加冠词或者变为复数形式，如the students' plan）。
 
 它们在意思上的区别见下表。
 
-例：Ineed to read a book about how to combat crime.
+| 形式 | 例句 | 意思 |
+| --- | --- | --- |
+| 可数名词加不定冠词 | I need to read a book about how to combat crime. | 世界上有很多关于如何打击犯罪的书，我需要看其中一本，随便哪一本都可以。 |
+| 可数名词加定冠词 | I need to read the book about how to combat crime. | 我手中可能有好几本书，其中一本是关于如何打击犯罪的，我需要看这本书，可能这本书以前就和别人提起过。 |
+| 可数名词加复数 | I need to read books about how to combat crime. | 我需要读关于打击犯罪的书，不止一本。 |
+| 可数名词的复数加定冠词 | The books about how to combat crime are among the best sellers of the bookshop. | 书店有很多书，特指强调其中某种类型的书。 |
+| 使用所有格的形式 | William's book is much more expensive than mine. | 威廉的书比我的贵得多。 |
 
-可数名词加
+例1：Computer is a machine for collecting, processing and presenting information.
 
-意思：世界上有很多关于如何打击犯罪的书，我需要看其中一本，随便不定冠词哪一本都可以。
-
-例：I need to read the book about how to combat crime.
-
-可数名词加
-
-意思：我手中可能有好几本书，其中一本是关于如何打击犯罪的，我需定冠词要看这本书，可能这本书以前就和别人提起过。
-
-可数名词加 ｜ 例：I need to read books about how to combat crime.
-
-复数 ｜ 意思：我需要读关于打击犯罪的书，不止一本。
-
-可数名词的 ｜ 例：The books about how to combat crime are among the best sellers of the
-
-复数加定冠 ｜ bookshop.
-
-词 ｜ 意思：书店有很多书，特指强调其中某种类型的书。
-
-使用所有格 ｜ 例：William's book is much more expensive than mine.
-
-的形式 ｜ 意思：威廉的书比我的贵得多。
-
-例1:Computer is a machine for collecting, processing and presenting information.
-
-错误的原因：computer 是可数名词，要加冠词。
+错误的原因：computer是可数名词，要加冠词。
 
 提升的句子：The computer is a machine for collecting, processing and presenting information.
 
 大意：电脑是一台用来收集、处理和发布信息的机器。
 
-例 2: Government should provide students from low-income families with more support.
+例2：Government should provide students from low-income families with more support.
 
-错误的原因：government 一般用作可数名词，要加冠词，或者用复数governments。
+错误的原因：government一般用作可数名词，要加冠词，或者用复数governments。
 
-提升的句子：The goverment should provide students from low-income families with more support.
+提升的句子：The government should provide students from low-income families with more support.
 
 大意：政府应该给低收入家庭的学生提供更多帮助。
 
 b. 不可数名词一般不用加定冠词，除非特指。可数名词复数一般也不用加定冠词，除非特指。
 
-例1:The education is important to one's job prospect.
+例1：The education is important to one's job prospect.
 
-错误的原因：education 是不可数名词，如果出现冠词，表示特指。
+错误的原因：education是不可数名词，如果出现冠词，表示特指。
 
 提升的句子：Education is important to one's job prospect.
 
