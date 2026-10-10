@@ -2,7 +2,7 @@
 
 ## 接管顺序
 
-读取README.md、STUDY-PLAN.md、当天科目指南、handoffs/latest.md和最近一条records/学习记录。首次没有记录时从D1开始。学习者附上的PDF等文件按当天任务读取。
+先读取[学习安排](README.md)、[阶段计划](STUDY-PLAN.md)、[笔记分类与命名](NOTE-FORMAT.md)和[各类笔记模板](NOTE-TEMPLATES.md)，再读取当天科目指南、handoffs/latest.md和最近一条records/学习记录。首次没有记录时从D1开始。学习者附上的PDF等文件按当天任务读取。
 
 开始时给出当前阶段、今天各科任务和材料直达链接。未完成的订正优先于新题。
 
@@ -62,7 +62,7 @@
 
 每日记录使用[进度模板](PROGRESS-TEMPLATE.md)，写入仓库的records/YYYY-MM-DD.md；同日继续练习时补充该文件，保留原答案。
 
-笔记按[分类与命名规则](NOTE-FORMAT.md)保存在notes/语法/、notes/词汇与搭配/、notes/听力/、notes/阅读/、notes/口语/。每篇围绕具体主题，正文直接写学习内容与订正。PDF原件、完整聊天和登录信息保留在个人目录。
+笔记按[分类与命名规则](NOTE-FORMAT.md)保存在notes/语法/、notes/词汇与搭配/、notes/听力/、notes/阅读/、notes/口语/。每篇围绕具体主题，正文按[对应类别模板](NOTE-TEMPLATES.md)写学习内容与订正，仅保留当天有内容的部分。PDF原件、完整聊天和登录信息保留在个人目录。
 
 结束时整理实际进度、未完成订正、下次各科任务和待复习问题，按[接管prompt模板](NEXT-SESSION-PROMPT.md)生成handoffs/YYYY-MM-DD-next.md，并用同一份内容更新handoffs/latest.md。材料链接直接写入prompt，跟读交接只包含集数、本集练习次数、是否完成。
 

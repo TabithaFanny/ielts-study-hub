@@ -16,6 +16,7 @@
 | 每日聊天接管、记录和复盘 | [协作说明](AGENTS.md) |
 | 提交词汇文件与其他进度 | [进度模板](PROGRESS-TEMPLATE.md) |
 | 笔记分类与文件命名 | [笔记规则](NOTE-FORMAT.md) |
+| 各类笔记正文格式 | [五类模板](NOTE-TEMPLATES.md) |
 | 下一次聊天的接管prompt | [接管模板](NEXT-SESSION-PROMPT.md) |
 | 一天的对话示例 | [每日练习示例](DAILY-SESSION-EXAMPLE.md) |
 

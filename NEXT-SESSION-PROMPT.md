@@ -9,6 +9,7 @@
 协作要求：https://github.com/TabithaFanny/ielts-study-hub/blob/main/AGENTS.md
 阶段计划：https://github.com/TabithaFanny/ielts-study-hub/blob/main/STUDY-PLAN.md
 笔记规则：https://github.com/TabithaFanny/ielts-study-hub/blob/main/NOTE-FORMAT.md
+笔记模板：https://github.com/TabithaFanny/ielts-study-hub/blob/main/NOTE-TEMPLATES.md
 上一条实际记录：[完整链接]
 需要读取的笔记：[完整链接]
 
@@ -32,7 +33,7 @@
 - 阅读：[材料直达链接、题号或段落、任务、35分钟]
 - 口语：[语料链接与任务；跟读对应分P链接；固定Part任务]
 
-开始时先读取以上记录，直接给我可点击的材料链接，并一次推进一个环节。
+开始时先读取协作要求、阶段计划、笔记规则、笔记模板和以上记录，直接给我可点击的材料链接，并一次推进一个环节。
 单词由我提供PDF等文件；只提取文件实际包含的信息。
 自由英文聊天先自然交流，再将内容归入语法、词汇与搭配或口语。
 笔记按“主要内容_材料来源_YYYY.MM.DD.md”命名，正文直接写学习内容和订正。
