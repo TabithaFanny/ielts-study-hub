@@ -1,0 +1,11 @@
+# Personal records and credentials stay local.
+private/
+sessions/
+progress/
+bbdc/
+.env
+.env.*
+*.cookie
+cookies*.json
+*baseline.json
+verification.png
