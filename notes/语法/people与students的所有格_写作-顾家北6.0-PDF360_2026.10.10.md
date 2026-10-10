@@ -22,4 +22,5 @@ people在这里已经表示复数“人们”，不用再加s。输入时使用�
 学习者：`reading can enhance students' confidence`
 最小格式订正：`Reading can enhance students' confidence.`
 结果：students'正确，结构与can后动词原形正确。下次凭记忆完整重写，检查首字母与句号。
+同日后续完整重写：`Reading can enhance students' confidence.`。所有格、拼写、大小写与句号均正确，前述格式待重写项已完成。
 复习安排：2026-10-11、2026-10-13各抽查一次people's／students'，仅记录实际结果。
