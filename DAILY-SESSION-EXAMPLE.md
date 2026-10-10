@@ -4,17 +4,34 @@
 
 ## 开始
 
-学习者：今天开始，单词我在App里自己做。
+学习者：今天开始，单词做完后我发PDF。
 
-每日聊天：今天听力做[剑雅14 Test 1 Part 1](https://engnovate.com/ielts-listening-tests/cambridge-ielts-14-academic-listening-test-1/)的Q1–10，阅读做[同套Passage 1](https://engnovate.com/ielts-reading-tests/cambridge-ielts-14-academic-reading-test-1/)的Q1–8。写作先练主谓宾短句。跟读用[第1集](https://www.bilibili.com/video/BV1KW6SBHEUj/?p=1)，今天练前半，20分钟。
+每日聊天：今天使用这些材料：
 
-我们先做写作。请独立写两句：①许多学生使用互联网学习。②阅读帮助学生学习新单词。不会拼的词先标记。
+- 听力：[剑雅14 Test 1](https://engnovate.com/ielts-listening-tests/cambridge-ielts-14-academic-listening-test-1/)，Part 1，Q1–10，30分钟。
+- 阅读：[剑雅14 Test 1](https://engnovate.com/ielts-reading-tests/cambridge-ielts-14-academic-reading-test-1/)，Passage 1，Q1–8，35分钟。
+- 写作：[顾家北6.0](https://github.com/TabithaFanny/ielts-study-hub/releases/tag/gujiabei-6)，5.1，PDF360起，25分钟。
+- 口语语料：[家庭话题](https://www.ieltsjacky.com/family-vocabulary.html)，10分钟。
+- 跟读：[Easy English Talk第1集](https://www.bilibili.com/video/BV1KW6SBHEUj/?p=1)，前半，20分钟。
+- 口语回答：家庭话题Part 1，10分钟。
+
+## 单词文件
+
+学习者：这是今天导出的PDF。
+
+每日聊天：我先读取文件。这个PDF是词表，含单词与释义，没有学习数量和耗时；这些统计留空。今天从词表里选10个常用或易错词，做闭卷拼写。
+
+学习者：有些词我只是复习了一遍，还不熟。
+
+每日聊天：词表收录和实际掌握分别记录。你写完后，我保存原拼写、正确拼写和需要复习的词。
 
 ## 写作订正
 
+每日聊天：先做两句自拟练习：①许多学生使用互联网学习。②阅读帮助学生学习新单词。
+
 学习者：Many student use the Internet to study. Reading help students learn new word.
 
-每日聊天：两句意思都清楚。先看数量：many后面的student需要什么形式？第二句的主语是Reading，help需要怎样变化？
+每日聊天：先看数量：many后面的student需要什么形式？第二句的主语是Reading，help需要怎样变化？
 
 学习者：students，helps。new words？
 
@@ -24,28 +41,41 @@
 >
 > Reading helps students learn new words.
 
-这里students和words表示复数；Reading作主语时谓语用helps。现在遮住这两句，重新写一遍。
+遮住改句，重新写一遍。我们保存原句、订正与闭卷重写结果。
 
-## 听力订正
+## 听力与阅读
 
-学习者：Q1–10第一次7/10，错了三题，答案发你了。
+学习者：听力Q1–10首次7/10，原答案和截图发你。
 
-每日聊天：我先保留这次答案。我们从第一道错题开始，先不看文本，回听它前后两句。你听到的是哪个词？
+每日聊天：先保存首次结果。我们从第一道错题开始，不看文本回听前后两句；再核对文本，区分没听出、拼写和词形问题。
 
-学习者：听到了，但是我写错了。
+学习者：阅读Q1–8做完了，有一道找不到证据。
 
-每日聊天：把你听到的词和原来写的词发我。我们对照拼写，再检查题目字数限制。另两题也分别回听后判断原因。
+每日聊天：把题号、原答案和候选证据句发来。我们逐项对照题干，说明句子关系，再整理最多3个影响理解的表达。
 
-## 阅读订正
+## 自由英文聊天
 
-学习者：Q1–8做完了，一道题找不到证据。
+学习者：I have went to a cafe with my friend yesterday. I very like the place.
 
-每日聊天：先发题号和你的答案。我们圈出题干关键词，回文章找同义表达，再检查空格需要的词性。今天只整理最多3个影响作答的表达。
+每日聊天：That sounds nice! What did you like about it?
 
-## 结束
+A quick correction: “I went to a cafe with my friend yesterday. I really like the place.”
 
-学习者：单词合计180，没分新学和复习。跟读第1集第1次，未完成。阅读订正还剩一题。
+学习者：It was quiet, and we could talk for a long time.
 
-每日聊天：今天单词记录合计180，新学和复习留空；跟读记录第1集、第1次、未完成。下一次阅读先订正剩下的一题，再继续Q9–13；听力先回听今天的错题。写作按计划进入小作文短句。
+每日聊天：That sounds like a good place to catch up. Do you go there often?
 
-每日聊天随后保存当天实际答案、订正、重写结果与下次任务，并返回记录文件位置。没有写入权限时，发送完整交接记录供下次聊天使用。
+聊天结束后，笔记保存两条语言问题：
+
+| 原句 | 改句 | 用法 |
+| --- | --- | --- |
+| I have went … yesterday. | I went … yesterday. | yesterday表示明确的过去时间，这里用一般过去时 |
+| I very like the place. | I really like the place. | very不能这样直接修饰like，可用really |
+
+## 结束与接管
+
+学习者：今天结束，阅读还有一道没订正。跟读第1集、第1次，未完成。
+
+每日聊天：下一次先订正剩下的阅读题，再继续后续任务。跟读保持第1集。今天的记录写入records/，错题与英文聊天笔记写入notes/；下次材料链接和任务写入handoffs/latest.md。
+
+每日聊天提交文件后，返回记录、笔记和接管prompt的实际GitHub链接，并贴出完整prompt。学习者将prompt复制到下一次聊天。
