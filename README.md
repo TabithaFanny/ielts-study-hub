@@ -5,6 +5,7 @@
 ## 从这里开始
 
 - [资料目录](RESOURCES.md)：优先资料、核验范围和缺项。
+- [口语与B站精选](SPEAKING-READING.md)：题目加答案下载入口、跟读和外刊精读核验结果。
 - [顾家北教材说明](GUJIABEI-GUIDE.md)：页码索引和基础写作练习方式。
 - [每日协作说明](AGENTS.md)：每日学习 agent 的接管和回填方式。
 - [手动进度模板](PROGRESS-TEMPLATE.md)：由学习者发送完成情况，agent 整理记录。
