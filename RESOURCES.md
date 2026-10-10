@@ -3,7 +3,7 @@
 | 科目 | 资料 | 入口与用途 |
 | --- | --- | --- |
 | 词汇 | 不背单词《雅思词汇真经》 | App内新学、复习和拼写；提供PDF等文件，由聊天整理进度与笔记 |
-| 写作基础 | 顾家北写作6.0 | [教材](https://github.com/TabithaFanny/ielts-study-hub/releases/tag/gujiabei-6)；[练习步骤与页码](GUJIABEI-GUIDE.md) |
+| 写作基础 | 顾家北写作6.0 | [Markdown教材](materials/gujiabei-6/README.md)；[原PDF](https://github.com/TabithaFanny/ielts-study-hub/releases/tag/gujiabei-6)；[练习步骤与页码](GUJIABEI-GUIDE.md) |
 | 在线翻译 | my-ielts | [练习站](https://hefengxian.github.io/my-ielts/#/)中的顾家北100句翻译；[项目](https://github.com/hefengxian/my-ielts) |
 | 听力做题 | Engnovate | [剑雅14 Academic Test 1](https://engnovate.com/ielts-listening-tests/cambridge-ielts-14-academic-listening-test-1/) |
 | 阅读做题 | Engnovate | [剑雅14 Academic Test 1](https://engnovate.com/ielts-reading-tests/cambridge-ielts-14-academic-reading-test-1/) |

@@ -2,19 +2,19 @@
 
 ## 教材页码
 
-[顾家北写作6.0教材](https://github.com/TabithaFanny/ielts-study-hub/releases/tag/gujiabei-6)，PDF共431页。任务同时写明书内页码和PDF页码。
+[顾家北Markdown教材](materials/gujiabei-6/README.md)按小节读取；[原PDF](https://github.com/TabithaFanny/ielts-study-hub/releases/tag/gujiabei-6)共431页。任务同时写明书内页码和PDF页码。图表、并列表格和存疑字符查看对应页图或原PDF；教材中的错误示例保留原样。
 
-| 内容 | 书内页码 | PDF页码 |
-| --- | --- | --- |
-| 第2章 大作文攻略 | 5起 | 19起 |
-| 第3章 学术类图表作文攻略 | 227起 | 241起 |
-| 第5章 100句翻译练习 | 343起 | 357起 |
-| 5.1 简单的主谓宾结构 | 346起 | 360起 |
-| 附录2：18个基本句型 | 370起 | 384起 |
-| 附录6：冠词和单复数 | 376起 | 390起 |
-| 附录7：谓语错误 | 379起 | 393起 |
-| 附录8：词性错误 | 383起 | 397起 |
-| 附录9：句子结构错误 | 388起 | 402起 |
+| 内容 | 书内页码 | PDF页码 | Markdown |
+| --- | --- | --- | --- |
+| 第2章 大作文攻略 | 5起 | 19起 | [简介与范文](materials/gujiabei-6/02-01-introduction.md) |
+| 第3章 学术类图表作文攻略 | 227起 | 241起 | [图表简介](materials/gujiabei-6/03-01.md) |
+| 第5章 100句翻译练习 | 343起 | 357起 | [词性与句子结构](materials/gujiabei-6/05-00.md) |
+| 5.1 简单的主谓宾结构 | 346起 | 360起 | [翻译练习](materials/gujiabei-6/05-01.md) |
+| 附录2：18个基本句型 | 370起 | 384起 | [基本句型](materials/gujiabei-6/appendix-02.md) |
+| 附录6：冠词和单复数 | 376起 | 390起 | [冠词与单复数](materials/gujiabei-6/appendix-06.md) |
+| 附录7：谓语错误 | 379起 | 393起 | [谓语](materials/gujiabei-6/appendix-07.md) |
+| 附录8：词性错误 | 383起 | 397起 | [词性](materials/gujiabei-6/appendix-08.md) |
+| 附录9：句子结构错误 | 388起 | 402起 | [句子结构](materials/gujiabei-6/appendix-09.md) |
 
 [my-ielts](https://hefengxian.github.io/my-ielts/#/)中的顾家北100句翻译可用于输入答案。每日聊天先读当天原题，再指定2–3句；参考译文在独立尝试后查看。
 

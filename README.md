@@ -11,7 +11,7 @@
 | 各科资料和网站 | [资料目录](RESOURCES.md) |
 | 阶段目标、首两周任务 | [学习计划](STUDY-PLAN.md) |
 | 在线做题、提交与订正 | [听阅练习](PRACTICE.md) |
-| 拼写、句子、段落与作文 | [写作练习](GUJIABEI-GUIDE.md) |
+| 拼写、句子、段落与作文 | [写作练习](GUJIABEI-GUIDE.md)；[顾家北Markdown教材](materials/gujiabei-6/README.md) |
 | 题目与回答、长期跟读、外刊精读 | [口语与精读](SPEAKING-READING.md) |
 | 每日聊天接管、记录和复盘 | [协作说明](AGENTS.md) |
 | 提交词汇文件与其他进度 | [进度模板](PROGRESS-TEMPLATE.md) |
